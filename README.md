@@ -21,8 +21,8 @@ RS dVPN Core is an independent, non-custodial desktop client that integrates wit
 Download the latest version on the official website **[rs-dvpn-core.com](https://rs-dvpn-core.com)** or directly from **[GitHub Releases](https://github.com/rsdvpncore-eng/RS-dVPN-Core/releases
 
 * **Windows:** `.exe`
-* **macOS:** `.dmg`
-* **Linux:** `.AppImage` / `.deb`
+* **macOS:** `.pkg`
+* **Linux:** `./DVPN`
 
 ## Status
 
