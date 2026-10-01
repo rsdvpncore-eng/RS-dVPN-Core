@@ -26,6 +26,7 @@ Download the latest version on the official website **[rs-dvpn-core.com](https:/
 
 ## Status
 
+- [x] **v0.0.1** — Latest release with TequilAPI integration.
 - [x] **v0.0.1b** — Initial public beta release with TequilAPI integration.
 - [ ] Multi-hop node routing support.
 - [ ] Built-in bandwidth testing and speed benchmarks.
